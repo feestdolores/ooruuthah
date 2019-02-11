@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ichohv.cfaexamlevel1.com/sitemap.xml
